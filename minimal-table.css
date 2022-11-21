@@ -1,0 +1,13 @@
+table, td {
+    border: 1px solid #333;
+    text-align: center;
+}
+h1
+{
+  color: blue;
+}
+
+p
+{
+  text-decoration-style: solid;
+}
